@@ -134,6 +134,6 @@ If you find this repository useful, consider giving it a ⭐!
 ## 👨‍💻 Author
 
 **Sreejib Nandy**
-Aspiring Software Developer
+* Aspiring Software Developer
 
 ---
